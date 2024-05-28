@@ -1,1 +1,1 @@
-A collection of simple C++ programs created while following learning C++ from the tutorials of the Cherno.
+Collection of C++ programs created while learning C++ from the tutorials of the Cherno.
